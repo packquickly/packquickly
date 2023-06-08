@@ -2,12 +2,15 @@
 
 [![Website: packquickly](https://img.shields.io/badge/packquickly-Website-informational)](https://www.packquickly.com)
 [![Twitter: packquickly](https://img.shields.io/twitter/follow/packquickly?style=social)](https://twitter.com/packquickly)
+  
+*Mathematics PhD student at* [*Oxford University*](http://www.maths.ox.ac.uk)
+*PhD Resident at* [*Google X*](http://www.x.company)
 
-<p><em> Mathematics PhD student at <a href="http://www.maths.ox.ac.uk">University of Oxford</a></br> PhD resident at <a href="https://www.x.company"> Google X </a></p></em>
 <img align='right' src="https://media.giphy.com/media/9TuX30acPdjFvFffOK/giphy.gif" width="230">
 
 <hr></hr>
-<p><em> Co-author of <a href="https://www.github.com/google/lineax"> Lineax </a>, a <a href="https://www.github.com/google/jax"> JAX </a> package for linear solves and least squares.
+  
+*co-author of [**Lineax**](https://github.com/google/lineax): linear/least-squares solvers in JAX.* [![GitHub Repo stars](https://img.shields.io/github/stars/google/lineax?style=social)](https://github.com/google/lineax)
   
 ```python
 @dataclass
