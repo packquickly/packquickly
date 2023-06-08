@@ -4,6 +4,7 @@
 [![Twitter: packquickly](https://img.shields.io/twitter/follow/packquickly?style=social)](https://twitter.com/packquickly)
   
 *Mathematics PhD student at* [*Oxford University*](http://www.maths.ox.ac.uk)
+
 *PhD Resident at* [*Google X*](http://www.x.company)
 
 <img align='right' src="https://media.giphy.com/media/9TuX30acPdjFvFffOK/giphy.gif" width="230">
