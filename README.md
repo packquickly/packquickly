@@ -13,8 +13,8 @@
 @dataclass
 class About:
     location: Any
-    research: ScientificML = ["Optimisation", "Numerical Methods", "Neural ODEs"]
-    main_tools: Python = ["JAX", "Equinox", "Numpy", "Scipy", "etc."]
+    research: ScientificML = ["Optimisation", "Numerical Methods"]
+    main_tools: Python = ["JAX", "Equinox", "Numpy", "etc."]
     other: FunStuff = {
         "running": "Ultra-endurance",
         "traveling": "Digital nomad",
