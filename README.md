@@ -3,7 +3,7 @@
 [![Website: packquickly](https://img.shields.io/badge/packquickly-Website-informational)](https://www.packquickly.com)
 [![Twitter: packquickly](https://img.shields.io/twitter/follow/packquickly?style=social)](https://twitter.com/packquickly)
 
-<p><em> PhD student at <a href="http://www.maths.ox.ac.uk">University of Oxford</a></br> PhD resident at <a href="https://www.x.company"> Google X </a></p></em>
+<p><em> Mathematics PhD student at <a href="http://www.maths.ox.ac.uk">University of Oxford</a></br> PhD resident at <a href="https://www.x.company"> Google X </a></p></em>
 <img align='right' src="https://media.giphy.com/media/9TuX30acPdjFvFffOK/giphy.gif" width="230">
 
 <hr></hr>
