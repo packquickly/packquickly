@@ -7,7 +7,7 @@
 <img align='right' src="https://media.giphy.com/media/9TuX30acPdjFvFffOK/giphy.gif" width="230">
 
 <hr></hr>
-<p><em> Co-author of <a href="https://www.github.com/google/lineax"> Lineax </a>, a <a href="https://www.github.com/google/jax"> JAX </a> package for linear solves and least least squares.
+<p><em> Co-author of <a href="https://www.github.com/google/lineax"> Lineax </a>, a <a href="https://www.github.com/google/jax"> JAX </a> package for linear solves and least squares.
   
 ```python
 @dataclass
