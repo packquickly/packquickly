@@ -11,7 +11,7 @@
 
 <hr></hr>
   
-*Co-author of [**Lineax**](https://github.com/google/lineax): linear/least-squares solvers in JAX.* [![GitHub Repo stars](https://img.shields.io/github/stars/google/lineax?style=social)](https://github.com/google/lineax)
+*Co-author of [**Lineax**](https://github.com/google/lineax): linear solvers and least-squares in JAX.* [![GitHub Repo stars](https://img.shields.io/github/stars/google/lineax?style=social)](https://github.com/google/lineax)
   
 ```python
 @dataclass
