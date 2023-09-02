@@ -3,9 +3,11 @@
 [![Website: packquickly](https://img.shields.io/badge/packquickly-Website-informational)](https://www.packquickly.com)
 [![Twitter: packquickly](https://img.shields.io/twitter/follow/packquickly?style=social)](https://twitter.com/packquickly)
   
-*Mathematics PhD student at* [*Oxford University*](http://www.maths.ox.ac.uk)
+*Machine Learning PhD student at* [*Oxford University*](http://www.maths.ox.ac.uk)
 
-*PhD Resident at* [*Google X*](http://www.x.company)
+*Previously PhD Resident at* [*Google X*](http://www.x.company)
+
+I run ultra-marathons as a hobby, and live nomadically to support this (and for its own sake!)
 
 <img align='right' src="https://media.giphy.com/media/9TuX30acPdjFvFffOK/giphy.gif" width="230">
 
@@ -17,11 +19,6 @@
 @dataclass
 class About:
     location: Any
-    research: ScientificML = ["Optimisation", "Numerical Methods"]
-    main_tools: Python = ["JAX", "Equinox", "Numpy", "etc."]
-    other: FunStuff = {
-        "running": "Ultra-endurance",
-        "traveling": "Digital nomad",
-        "programming": "Haskell",
-    }
+    research: ScientificML = ["Optimisation", "Numerical Methods", "Deep Learning"]
+    main_tools: Python = ["JAX", "Equinox"]
 ```
