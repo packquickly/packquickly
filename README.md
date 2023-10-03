@@ -7,7 +7,7 @@
 
 *Previously PhD Resident at* [*Google X*](http://www.x.company)
 
-I run ultra-marathons as a hobby, and live nomadically to support this (and for its own sake!)
+I am also a digital nomad and ultramarathon runner.
 
 <img align='right' src="https://media.giphy.com/media/9TuX30acPdjFvFffOK/giphy.gif" width="230">
 
