@@ -7,8 +7,6 @@
 
 *Previously PhD Resident at* [*Google X*](http://www.x.company)
 
-I am also a "digital fastpacker," ie. I live nomadically and often run many ultramarathons between destinations.
-
 <img align='right' src="https://media.giphy.com/media/9TuX30acPdjFvFffOK/giphy.gif" width="230">
 
 <hr></hr>
