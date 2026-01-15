@@ -21,6 +21,6 @@ Lineax is also available [on arXiv](https://arxiv.org/abs/2311.17283).
 @dataclass
 class About:
     location: Any
-    research: ScientificML = ["Optimisation", "Numerical Methods", "Deep Learning"]
+    research: ScientificML = ["Deep Learning", "Machine Learning", "sciML", "Optimisation", "Numerical Methods"]
     main_tools: Python = ["JAX", "Equinox"]
 ```
