@@ -1,6 +1,8 @@
 <h1> I'm Denver Rader <img align=bottom src="https://media.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="80"></h1>
+
+*Member of Technical Staff at [*Cohere*](https://cohere.com/)*
   
-*Machine Learning PhD student at* [*Oxford University*](http://www.maths.ox.ac.uk)
+*Waiting to defend my PhD at* [*Oxford University*](http://www.maths.ox.ac.uk)
 
 *Previously PhD Resident at* [*Google X*](http://www.x.company)
 
@@ -17,7 +19,7 @@ Lineax is also available [on arXiv](https://arxiv.org/abs/2311.17283).
 ```python
 @dataclass
 class About:
-    location: Any
+    location: BerlinGermany
     research: ScientificML = ["Deep Learning", "Machine Learning", "sciML", "Optimisation", "Numerical Methods"]
     main_tools: Python = ["JAX", "Equinox"]
 ```
