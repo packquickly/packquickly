@@ -2,7 +2,7 @@
 
 *Member of Technical Staff at [*Cohere*](https://cohere.com/)*
   
-*Waiting to defend my PhD at* [*Oxford University*](http://www.maths.ox.ac.uk)
+*PhD from (currently in corrections, post defense)* [*Oxford University*](http://www.maths.ox.ac.uk)
 
 *Previously PhD Resident at* [*Google X*](http://www.x.company)
 
